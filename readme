@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+     <!-- <link rel="stylesheet" href="style.css"> -->
+
+    <style>
+       
+    div.container
+    {
+        width:400px;
+        border: 2px solid black;
+        text-align: center;
+    }
+    
+
+    #id1
+    {  
+        width:400px;
+        border:2px solid yellow;
+        /* text-align: center; */
+
+
+    }
+    </style>  
+</head>
+<body>
+     
+      
+
+    <p  style="text-align: center;">harsh bhandar</p>
+
+    <div class="container" >
+
+        <!-- <span>harsh</span> -->
+         <p style="border: 2px solid blueviolet;">hakn</p>
+         <p>kms
+
+         </p>
+
+          <div id="id1">harshbhandari</div>
+    </div>
+  <div style="text-align: center;" >
+    <span style="text-align: center;">hasyfayd</span>
+</div>
+        
+
+</body>
+</html>
